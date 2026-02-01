@@ -1,4 +1,4 @@
-# Weather Forecast - Your Reliable Weather Companion
+# Weather Forecast
 
 **Weather Forecast** is a user-friendly website that provides up-to-date weather information based on the user's location or the location they choose. Whether you're planning a trip or simply want to know if you need an umbrella, Weather Forecast delivers accurate, real-time weather data.
 
@@ -16,7 +16,4 @@
 - **API**: The website uses a public weather API to retrieve real-time weather data.
 - **GitHub Pages**: Hosting the website for easy public access.
 
-## Instructions for Use:
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/prernapreyshi/Weather-Forecast.git
+
